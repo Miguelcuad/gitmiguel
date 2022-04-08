@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family:Helvetica;
+	background-color: lightyellow;
 }
 #bus {
    width: 250px;
